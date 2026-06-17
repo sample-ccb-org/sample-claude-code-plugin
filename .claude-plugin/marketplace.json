@@ -1,0 +1,14 @@
+{
+  "name": "our-team",
+  "owner": {
+    "name": "sample-ccb-org"
+  },
+  "plugins": [
+    {
+      "name": "log-analyzer",
+      "source": "./log-analyzer",
+      "description": "팀 지식(references/) 기반 운영 로그 분석"
+    }
+  ],
+  "description": "팀의 운영 지식을 공유하는 our-team 마켓플레이스"
+}
