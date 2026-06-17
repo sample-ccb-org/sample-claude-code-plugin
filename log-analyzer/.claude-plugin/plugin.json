@@ -1,6 +1,6 @@
 {
   "name": "log-analyzer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "팀 지식 기반 운영 로그 분석 — 방법(SKILL.md)과 지식(references/)의 분리",
   "author": {
     "name": "sample-ccb-org"
