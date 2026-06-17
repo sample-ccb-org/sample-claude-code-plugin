@@ -1,5 +1,5 @@
 {
-  "name": "our-team",
+  "name": "our-team-plugins",
   "owner": {
     "name": "sample-ccb-org"
   },
@@ -10,5 +10,5 @@
       "description": "팀 지식(references/) 기반 운영 로그 분석"
     }
   ],
-  "description": "팀의 운영 지식을 공유하는 our-team 마켓플레이스"
+  "description": "팀의 운영 지식을 공유하는 our-team-plugins 마켓플레이스"
 }

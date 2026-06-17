@@ -1,4 +1,4 @@
-# our-team 플러그인 마켓플레이스
+# our-team-plugins 플러그인 마켓플레이스
 
 팀의 운영 지식을 Claude Code 플러그인으로 공유하는 마켓플레이스입니다.
 
@@ -6,10 +6,10 @@
 
 ```
 /plugin marketplace add sample-ccb-org/sample-claude-code-plugin
-/plugin install log-analyzer@our-team
+/plugin install log-analyzer@our-team-plugins
 ```
 
-> `@our-team`은 이 레포 `.claude-plugin/marketplace.json`의 `name` 필드(마켓플레이스
+> `@our-team-plugins`는 이 레포 `.claude-plugin/marketplace.json`의 `name` 필드(마켓플레이스
 > 식별자)입니다 — 레포 이름과 달라도 됩니다.
 
 ## 플러그인
@@ -25,4 +25,4 @@
 1. `log-analyzer/references/` 아래에 패턴/이력/runbook 문서 추가
 2. `log-analyzer/.claude-plugin/plugin.json`의 `version` 올리기 (예: 1.0.0 → 1.1.0)
 3. PR → 리뷰 → merge
-4. 팀원들은 `/plugin update log-analyzer@our-team` 한 번이면 다음 분석부터 반영
+4. 팀원들은 `/plugin update log-analyzer@our-team-plugins` 한 번이면 다음 분석부터 반영
